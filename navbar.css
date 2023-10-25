@@ -89,6 +89,10 @@ header.sticky ul li a{
     color: #1e3050;
 }
 
+.header.sticky .logo:hover{
+    font-size: 40px;
+}
+
 header.sticky .logo:hover,
 header.sticky ul li a:hover{
     color: #efc437;
